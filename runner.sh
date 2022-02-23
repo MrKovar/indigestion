@@ -8,5 +8,4 @@ then
     touch /root/first.txt
 fi
 
-echo "Running python"
 python3 /root/ingestion.py /root/config.toml
