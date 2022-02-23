@@ -1,0 +1,5 @@
+"remote_server" = "user@127.0.0.1"
+"remote_files" = "/path/to/remote_directory"
+"local_files" = "/root/ingest"
+"local_os" = "Linux"
+"remote_os" = "Linux"
